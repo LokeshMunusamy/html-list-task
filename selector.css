@@ -1,0 +1,57 @@
+*{
+    background-color: rgb(233, 240, 233);
+    font-display: flex;
+}
+
+h1{
+    color: #800000;
+}
+
+h2{
+    color:#dd823d ;
+}
+
+.header h3{
+    color: #EF5A6F;
+    
+}
+.header>ul>li h4{
+    color:#536493 ;
+
+}
+
+.header>li h4{
+    color:#f11b1b
+}
+
+.header>ol> li{
+    color: #7C00FE;
+}
+
+.sibling~.adjacent{
+    color: #df10bc;
+}
+
+.sibling+.siblings{
+    color: #b6182d;
+}
+
+.design>li h4{
+    color: #379777;
+}
+
+.design{
+    color: #D74B76;
+}
+
+.final{
+    color:#FB6D48;
+}
+
+.finish{
+    color: #800000
+}
+
+mark{
+    color: #5B99C2;
+}
